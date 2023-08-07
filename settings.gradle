@@ -6,8 +6,5 @@ include 'module_zipkin'
 include 'module_admin'
 include 'module_gateway'
 include 'module_monitor'
-include 'module_user'
-include 'module_blog'
-include 'module_news'
 include 'module_db'
 
